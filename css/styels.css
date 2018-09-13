@@ -1,0 +1,14 @@
+/*Simple css styling for main div container */
+.main-container{
+   
+    margin:auto;
+    text-align: center;
+    border: double #326BA0 10px;
+     margin-top:150px;
+    width:80%
+}
+
+.instructions{
+    color:red;
+    
+}
